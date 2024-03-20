@@ -1,16 +1,28 @@
-### Hi there 👋
+# Vaidik's Portfolio
 
-<!--
-**vaidikrvyas/vaidikrvyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio! This repository contains projects and code snippets showcasing my skills and interests in [mention your areas of expertise, e.g., web development, data science, machine learning, etc.].
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Project 1: [Project Name]
+
+- Description: [Brief description of the project]
+- Technologies Used: [List of technologies/tools used, e.g., HTML, CSS, JavaScript, Python, etc.]
+- Link: [Link to the project repository or live demo]
+
+### Project 2: [Project Name]
+
+- Description: [Brief description of the project]
+- Technologies Used: [List of technologies/tools used]
+- Link: [Link to the project repository or live demo]
+
+## Code Snippets
+
+Here are some code snippets from my projects:
+
+```python
+# Example Python code snippet
+def greet(name):
+    print(f"Hello, {name}!")
+
+greet("World")
