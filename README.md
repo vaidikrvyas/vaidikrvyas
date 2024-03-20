@@ -1,6 +1,6 @@
 # Vaidik Vyas
 
-[LinkedIn](https://linkedin.com/in/vaidikrvyas) | [GitHub](https://github.com/vaidikrvyas) | (908) 720 4629
+[LinkedIn](https://linkedin.com/in/vaidikrvyas) | [GitHub](https://github.com/vaidikrvyas) | [GMail](mailto:vv466@njit.edu) | (908) 720 4629
 
 ---
 
